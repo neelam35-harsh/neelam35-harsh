@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello!! My name is Navjeet Kaur.   
+
+- 👩‍💻 I am currently a student at Binghamton Univercity. Majoring in Economics and minoring in Data Digital Studies(DIDA). I will be graduating spring of 2025. 
+- I am currently working a capstone group project for my final class for the DIDA minor.
+- I in my past class we worked on a project dealing with NYC Stop and Frisk data. As group we cleaned the data set and analized looked at demopgrahic realtionship that resulted in stops/aresst. 
